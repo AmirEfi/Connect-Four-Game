@@ -1,4 +1,4 @@
-# ConnectFour Game
+# Connect4 Game
 ## Final project of the AI course - Spring 2023
 
 This is a simple Connect Four game.
