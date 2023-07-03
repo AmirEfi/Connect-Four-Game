@@ -1,7 +1,7 @@
 # Connect4 Game
 ## Final project of the AI course - Spring 2023
 
-This is a simple Connect Four game.
+This is a simple Connect4 game.
 
 You can play in two modes: Single/Multiplayer.
 
